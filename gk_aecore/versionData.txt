@@ -1,1 +1,4 @@
+$$<ID>gk_aecore<ID>$$
+$$<IDS>AE-C<IDS>SS
+$$<NAME>Aether Core<NAME>$$
 $$<VERSION>0.0.0.1<VERSION>$$
